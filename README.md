@@ -3,6 +3,11 @@
 Assignment Scenario
 In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with importing some data from another department which relates to inventory information about their fleet of vehicles. The data is in comma-separated value (CSV) format and the data also needs cleaning up before you can start to run any kind of analysis on it.
 
+DATASET:
+The dataset used in this lab comes from the following source:
+https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr 
+under a Public Domain license.
+
 Guidelines for the Submission
 Download the file Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV. Upload and open the file with Excel for the web and convert it to an .XLSX file. Then clean the data as detailed below.
 
